@@ -16,6 +16,5 @@ Porém, uma classe pode implementar mais de uma interface
 
 **ATENÇÃO:**
 
-Isso NÃO é herança múltipla, pois NÃO HÁ REUSO na relação entre ComboDevice e as interfaces Scanner e Printer.
-
+> Isso NÃO é herança múltipla, pois NÃO HÁ REUSO na relação entre ComboDevice e as interfaces Scanner e Printer.
 ComboDevide não herda, mas sim implementa as interfaces (cumpre o contrato).
